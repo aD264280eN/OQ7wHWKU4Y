@@ -25,7 +25,6 @@ Enhancement suggestions are also tracked as GitHub issues.
 ### Pull Requests
 
 - Fork the repo and create your branch from master.
-- Make sure your code lints and tests pass.
 - Issue pull request linking to the issue it addresses.
 
 ## Development Setup
