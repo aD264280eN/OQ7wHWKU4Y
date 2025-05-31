@@ -1,4 +1,3 @@
-**/build/*/**/*.js
 **/dist/**/*.js
 **/extensions/shared.webpack.config.js
 **/extensions/*/extension.webpack.config.js
